@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\External">
+      <UniqueIdentifier>{f5d1a30a-bd06-45bf-b668-8ef847693679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shape Objects">
+      <UniqueIdentifier>{be02c491-4c08-49b4-88c4-e50cbe58202c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Collision Detection">
+      <UniqueIdentifier>{e1e5023a-9da9-4c1b-9919-386d55d4a4ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base">
+      <UniqueIdentifier>{50ad7e5c-65e7-4596-837e-a4894b801574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shape Objects">
+      <UniqueIdentifier>{86735cad-d95a-4822-ab7b-e239ee4be7a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Collision Detection">
+      <UniqueIdentifier>{6526abd3-445e-4253-b488-7f6397e4d131}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{414b15e1-5cae-429a-8225-888e8e036c54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sounds">
+      <UniqueIdentifier>{bdd76863-6c4e-45f7-b0a0-3b2207059f49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sounds">
+      <UniqueIdentifier>{468dfce7-6c43-469d-8095-217e9c9c4ada}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Misc">
+      <UniqueIdentifier>{9f851fc9-6443-4615-9a1b-23f1d7aa469d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Misc">
+      <UniqueIdentifier>{ea495c84-ea11-4d0a-bdbe-c00838d87028}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Base">
+      <UniqueIdentifier>{d995198c-43cb-4f04-964b-3e3f913a050a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shading">
+      <UniqueIdentifier>{5aa3f59b-e18e-4a8c-ab99-ae361ff6972c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shading">
+      <UniqueIdentifier>{5c8f14f6-c9dd-451a-bf0c-2fcd4e4ac011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingGame">
+      <UniqueIdentifier>{cb1a3de4-fa72-4aa6-afb1-90de370d5a2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingGame\Resource">
+      <UniqueIdentifier>{03a90b06-5db2-4ee5-a288-f499ccc07d3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingGame\Resource\Textures">
+      <UniqueIdentifier>{8825ecdb-d92c-4625-bd2a-099767744f2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingGame\Header">
+      <UniqueIdentifier>{6b5beba0-79ea-4a29-9c98-9cc029013e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BuildingGame\Source">
+      <UniqueIdentifier>{9c573387-6dff-4a2d-9ae3-3a031af66a51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>Source Files\External</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files\Shape Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Source Files\Shape Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Source Files\Shape Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Bounds.cpp">
+      <Filter>Source Files\Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Hitbox.cpp">
+      <Filter>Source Files\Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="HitArray.cpp">
+      <Filter>Source Files\Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreBoard.cpp">
+      <Filter>Source Files\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicNumber.cpp">
+      <Filter>Source Files\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Init.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files\Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleT.cpp">
+      <Filter>Source Files\Shape Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files\Shading</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\Shading</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleT.cpp">
+      <Filter>Source Files\Shape Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingGame\Block.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingGame\Source.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingGame\Chunk.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Human.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ChunkFile.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BatchRenderer.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWorld.cpp">
+      <Filter>BuildingGame\Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stb_image.h">
+      <Filter>Source Files\External</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Header Files\Shape Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Header Files\Shape Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Hitbox.h">
+      <Filter>Header Files\Collision Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="HitArray.h">
+      <Filter>Header Files\Collision Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="Bounds.h">
+      <Filter>Header Files\Collision Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Header Files\Shape Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Init.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="FireTimer.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicNumber.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreBoard.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files\Shading</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files\Shading</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildingGame\Block.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildingGame\Chunk.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Human.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BatchRenderer.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWorld.h">
+      <Filter>BuildingGame\Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shading\basic.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Shading\texture.shader">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="BuildingGame\Png\Blocks\GrassBlock.png">
+      <Filter>BuildingGame\Resource\Textures</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

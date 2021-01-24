@@ -1,0 +1,12 @@
+﻿  BatchRenderer.cpp
+BatchRenderer.cpp(15): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+BatchRenderer.cpp(39): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 583 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Peyton\Documents\Visual Studio 2015\Projects\openGl\2D Engine\Release\vc120.pdb'; linking object as if no debug info
+  Final Project Engine.vcxproj -> C:\Users\Peyton\Documents\Visual Studio 2015\Projects\openGl\2D Engine\Release\2D Engine.exe
+  Final Project Engine.vcxproj -> C:\Users\Peyton\Documents\Visual Studio 2015\Projects\openGl\2D Engine\Release\2D Engine.pdb (Full PDB)

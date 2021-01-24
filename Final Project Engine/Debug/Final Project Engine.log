@@ -1,0 +1,212 @@
+﻿  TriangleT.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(43): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(51): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(105): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(113): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(172): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(185): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(198): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(378): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(393): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(394): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(431): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(437): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(449): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(450): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\trianglet.cpp(451): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(118): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(131): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(144): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(337): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(378): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(393): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(394): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\triangle.cpp(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+  stb_image.cpp
+  Sound.cpp
+  Shape.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\shape.cpp(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  ScoreBoard.cpp
+  RectangleT.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(142): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(344): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(347): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(367): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(368): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(398): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(401): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(404): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectanglet.cpp(422): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Rectangle.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(294): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(300): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\rectangle.cpp(321): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Node.cpp
+  List.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\list.cpp(571): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\list.cpp(579): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\list.cpp(582): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\list.cpp(589): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Init.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\init.cpp(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\init.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\init.cpp(41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\init.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Human.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(230): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(320): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(358): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Hitbox.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitbox.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HitArray.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitarray.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitarray.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitarray.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitarray.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GraphicNumber.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\graphicnumber.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Circle.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\circle.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\circle.cpp(45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\circle.cpp(60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\circle.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\circle.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ChunkFile.cpp
+  Source.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(99): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(142): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(177): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(264): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(384): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(386): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(387): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(389): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(390): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(159): warning C4101: 'arr': unreferenced local variable
+  Running Code Analysis for C/C++...
+  Generating Code...
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(199): warning C4715: 'Human::pollForInput': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitarray.h(46): warning C4715: 'HitArray16::indexMatrix': not all control paths return a value
+  Compiling...
+  Chunk.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(155): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(379): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(386): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(398): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(405): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(431): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(431): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(435): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(467): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(502): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(573): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Block.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\block.cpp(167): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\block.cpp(219): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\block.cpp(275): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bounds.cpp
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(171): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(178): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(198): warning C4305: '+=': truncation from 'double' to 'float'
+  Running Code Analysis for C/C++...
+  Generating Code...
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(294): warning C4715: 'Chunk::grabBlockLocation': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(354): warning C4715: 'Chunk::convertToSingleChunkIndex': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(645): warning C4715: 'Chunk::grabBlockLocation': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\chunk.cpp(692): warning C4715: 'Chunk::isTouchingChunk': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\block.cpp(14): warning C4715: 'absVal': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\bounds.cpp(211): warning C4715: 'Bounds::getQuadrant': not all control paths return a value
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\hitarray.h(46): warning C4715: 'HitArray16::indexMatrix': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Peyton\Documents\Visual Studio 2015\Projects\openGl\2D Engine\Debug\vc120.pdb'; linking object as if no debug info
+  Final Project Engine.vcxproj -> C:\Users\Peyton\Documents\Visual Studio 2015\Projects\openGl\2D Engine\Debug\2D Engine.exe
+  Final Project Engine.vcxproj -> C:\Users\Peyton\Documents\Visual Studio 2015\Projects\openGl\2D Engine\Debug\2D Engine.pdb (Partial PDB)
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\buildinggame\source.cpp(17): warning C6262: Function uses '90580' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(563): warning C6282: Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(580): warning C6282: Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(645): warning C6282: Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\human.cpp(662): warning C6282: Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\shader.cpp(26): warning C6255: _alloca indicates failure by raising a stack overflow exception.  Consider using _malloca instead.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(2206): warning C6011: Dereferencing NULL pointer 'data'. 
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(3815): warning C6011: Dereferencing NULL pointer 'y'. 
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(6707): warning C6308: 'realloc' might return null pointer: assigning null pointer to 'out', which is passed as an argument to 'realloc', will cause the original memory block to be leaked.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(6709): warning C6308: 'realloc' might return null pointer: assigning null pointer to '*delays', which is passed as an argument to 'realloc', will cause the original memory block to be leaked.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(6682): warning C6262: Function uses '34952' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(6718): warning C6387: 'out+((((layers-1))*stride))' could be '0':  this does not adhere to the specification for the function 'memcpy'. 
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(6724): warning C28182: Dereferencing NULL pointer. '*delays' contains the same NULL value as 'realloc()`6709' did. 
+c:\users\peyton\documents\visual studio 2015\projects\opengl\2d engine\final project engine\stb_image.h(6746): warning C6262: Function uses '34932' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.
