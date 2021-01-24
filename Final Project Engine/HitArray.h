@@ -11,8 +11,6 @@
 
 	- Once a bool map has been chosen for the hitbox array It cannot be changed
 
-	- Comparing a hit array with another hit array is cpu intensive
-
 	- Hit arrays and objects must be bound at their origins and then continue to follow all of the same translations and rotations
 
 	- Hitarray[2][3] is allocated and translated no matter what because it contains midpoint data, but if it isnt specified on the bool map as true it wont register for hits
