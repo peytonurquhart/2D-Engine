@@ -114,12 +114,7 @@ void graphicNumber::midNum(float mids[2])
 
 bool graphicNumber::incr()
 {
-	if (number > 9)
-	{
-		number = 0; //guard code
-	}
-
-	if (number == 9)
+	if (number >= 9)
 	{
 		number = 0;
 	}
