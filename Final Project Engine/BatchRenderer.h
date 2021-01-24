@@ -9,11 +9,8 @@
 /*
  Batch Rendrer Object
 
-- Accepts a combined array of Chunk Pointers from which to batch blocks
-
-- Accepts a blockType and a texture pointer to that block type
-
-- Creates a shape out of the blocks in the chunks only which match the blockType
+- Quicker rendering of many Shapes with single GPU call.
+- One batch has at most 1 Texture
 
 */
 
@@ -45,13 +42,6 @@ private:
 
 };
 
-
-/*
-		Batch Renderer
-
-	- Accepts a list of blocks and renders the objects by blockType with minimal draw calls
-
-*/
 
 
 class Renderer
