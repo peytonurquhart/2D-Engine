@@ -23,7 +23,7 @@ void Round(float buff, float *n);
 		|\
 		| \
 	c	|  \  b
-	    |   \
+	        |   \
 		|    \
 		|     \
 	B	```````   C
@@ -31,7 +31,7 @@ void Round(float buff, float *n);
 
 	Warning:
 
-- sin() and cos() decimal trucation over many operations and rotations could result in traingles warping or translating a small amount, although they seem to be very stable through 100,000+ operations
+- sin() and cos() decimal truncation issue fixed
 
 */
 
