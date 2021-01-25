@@ -1,6 +1,6 @@
 # 2D-Engine
 
-A Simple Engine made using C/C++, OpenGL, GLSL
+A simple 2D game engine made using C/C++, OpenGL,GLSL
 
 Examples programs I made with the engine:
   + A 2D infinite worlds building block game: https://www.youtube.com/watch?v=m5UJ-GpF4Y0
@@ -17,3 +17,9 @@ Features:
 + Shape Rotations
 + Hitboxes 
 + Batch rendering
+
+Other Libraries:
++ IrrKlang (audio)
++ stb_image
++ GLFW
++ GLEW
